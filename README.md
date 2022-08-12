@@ -14,7 +14,6 @@ Requirements:
 * fcl (depends on libccd and octomap)
 * oat++ (via submodule)
 * eigen (via submodule)
-* CLI11 (Get Header from: https://github.com/CLIUtils/CLI11#install)
 
 ### Windows 
 
